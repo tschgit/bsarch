@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchiCAD.md",
+                "file": "Vorlagen/ArchiCAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e839c0bb6477c3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorlagen/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArchiCAD.md",
+                "file": "Vorlagen/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArchiCAD.md",
+                "file": "Vorlagen/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchiCAD.md"
+                "file": "Vorlagen/Untitled.md"
               }
             }
           }
@@ -146,6 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9770933871fc950a",
-  "lastOpenFiles": []
+  "active": "e839c0bb6477c3fc",
+  "lastOpenFiles": [
+    "Vorlagen/ArchiCAD.md"
+  ]
 }
